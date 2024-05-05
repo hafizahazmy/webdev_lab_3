@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<href="task_1.html">task 1</href>
+<a href="task_1.html">task 1</a>
+<a href="task_2.html">task 2</a>
+<a href="task_3.html">task 3</a>
 </head>
 </html>
